@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "GDG BHU Chat",
+  "launch_path": "/index.html",
+  "description": "Chat with GDG members using Firebase 2.0",
+  "developer": {
+    "name": "GDG Bingham University",
+    "url": "http://bhu.gdg.ng"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "GDG BHU Chat",
+      "description": "Chat with GDG members using Firebase 2.0"
+    }
+  }
+}

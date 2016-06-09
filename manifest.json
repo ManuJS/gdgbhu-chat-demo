@@ -1,0 +1,7 @@
+{
+  "name": "GDG BHU Chat",
+  "short_name": "GDG BHU Chat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
